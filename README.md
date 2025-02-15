@@ -37,10 +37,3 @@ Contributions are welcome! To contribute:
 3. Make your improvements and commit (`git commit -m 'Adding new feature'`).
 4. Push the changes (`git push origin my-improvement`).
 5. Open a Pull Request.
-
-## License
-This project does not have a defined license. If you wish to add a license, consider options such as MIT, GPL, or Apache, and add the corresponding file to the repository.
-
-# salary_bonus_calculator
-# salary_bonus_calculator
-# bonus_calculator
